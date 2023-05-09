@@ -1,0 +1,20 @@
+# interger datatype 
+
+print(type(34))
+print(type(0))
+print(type(-3))
+print(type(38769897030))
+
+# float datatype
+
+print(type(3.98))
+print(type(.0))
+print(type(-.2))
+print(type(9708989.9897))
+
+# string datatype
+
+print(type('hi'))
+print(type("data type"))
+print(type('''variable'''))
+print(type("""object"""))
